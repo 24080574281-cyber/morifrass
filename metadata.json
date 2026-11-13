@@ -1,0 +1,6 @@
+{
+  "name": "MORIFRASS — Smart Organic Agriculture & Circular Economy Ecosystem",
+  "description": "Ekosistem agritech digital berbasis ekonomi sirkular: Marketplace pupuk bioaktif organik BSF & kelor, ketertelusuran QR & Blockchain, manajemen rantai pasok, produksi, QC, dan edukasi gamifikasi MORI-EDU.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
